@@ -1,2 +1,4 @@
 **/NFC-Tool_v*
 icon_NFC.png
+.DS_Store
+.gitignore
