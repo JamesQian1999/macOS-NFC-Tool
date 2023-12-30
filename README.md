@@ -1,5 +1,5 @@
 # NFC-Tool
-A straightforward and efficient macOS application designed for cloning NFC cards onto blank cards with ease.
+A straightforward and efficient macOS application designed for cloning NFC cards onto blank cards with ease. The code have tested on ACR122U.
 
 ## 🚀 How to run the tool:
 1. Install the app using the provided DMG file.
